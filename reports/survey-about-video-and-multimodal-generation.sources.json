@@ -1,0 +1,50 @@
+[
+  {
+    "n": 1,
+    "id": "2610.12470",
+    "url": "https://arxiv.org/abs/2610.12470",
+    "title": "Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2604.06757",
+    "url": "https://huggingface.co/papers/2604.06757",
+    "title": "FlowInOne: Unifying Multimodal Generation as Image-in, Image-out Flow Matching",
+    "date": "2026-04-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "Vondrick et al. (2026)",
+    "url": "https://arxiv.org/html/2610.00812",
+    "title": "Video Generation Models: A Survey of Post-Training and Alignment",
+    "date": "2026-10-08",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2610.12461",
+    "url": "https://arxiv.org/abs/2610.12461",
+    "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2610.12468",
+    "url": "https://arxiv.org/abs/2610.12468",
+    "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "Artificial Intelligence Review (2026)",
+    "url": "https://link.springer.com/article/10.1007/s10462-026-11699-z",
+    "title": "Towards human-centered and efficient video synthesis: a survey of multimodal diffusion models",
+    "date": "2026-10-09",
+    "source": "web"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "n": 1,
+    "id": "2610.00311",
+    "url": "https://arxiv.org/abs/2610.00311",
+    "title": "EdgeDAE: Acceleration of Diffusion Action Experts for Real-Time Physical AI with Tiny VLAs on Edge FPGA-GPU Systems",
+    "date": "2026-09-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2025-08-03",
+    "url": "https://dl.acm.org/doi/10.1145/3711896.3736563",
+    "title": "A Survey on Small Language Models in the Era of Large Language Models: Architecture, Capabilities, and Trustworthiness",
+    "date": "2025-08-03",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "1909.10351",
+    "url": "https://huggingface.co/papers/1909.10351",
+    "title": "TinyBERT: Distilling BERT for Natural Language Understanding",
+    "date": "2019-09-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "N/A",
+    "url": "https://aclanthology.org/2020.findings-emnlp.372.pdf",
+    "title": "DistilBERT: a Distilled Version of BERT",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "N/A",
+    "url": "https://arxiv.org/html/2506.17289v1",
+    "title": "Evaluating Generalization and Representation Stability in Small LMs via Prompting, Fine-Tuning and Out-of-Distribution Prompts",
+    "date": "N/A",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "N/A",
+    "url": "https://aclanthology.org/2025.trustnlp-main.25.pdf",
+    "title": "Are Small Language Models Ready to Compete with Large Language Models for Practical Applications?",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2409.15790v1",
+    "url": "https://arxiv.org/html/2409.15790v1",
+    "title": "Small Language Models: Survey, Measurements, and Insights",
+    "date": "2024-09-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2609.34712",
+    "url": "https://arxiv.org/abs/2609.34712",
+    "title": "RSI-Router: Evolving Subtask-Level LLM Routing and Skills for Cost-Efficient Agents",
+    "date": "2026-09-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "N/A",
+    "url": "https://aclanthology.org/2025.findings-ijcnlp.142.pdf",
+    "title": "Regional-TinyStories: A Small Language Model Framework for Evaluating Language Learning, Tokenizers, and Datasets",
+    "date": "N/A",
+    "source": "web"
+  }
+]

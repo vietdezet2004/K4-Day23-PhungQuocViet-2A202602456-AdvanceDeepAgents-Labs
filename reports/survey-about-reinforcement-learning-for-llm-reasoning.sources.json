@@ -1,0 +1,66 @@
+[
+  {
+    "n": 1,
+    "id": "2610.01936",
+    "url": "https://arxiv.org/abs/2610.01936",
+    "title": "Rethinking Knowledge Retrieval for Generation: A Survey on RAG Architectures and Applications",
+    "date": "2026-10-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2606.30406",
+    "url": "https://huggingface.co/papers/2606.30406",
+    "title": "Multi-Teacher On-Policy Distillation for Capability Integration in LLM Post-Training",
+    "date": "2026-06-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "N/A",
+    "url": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-with-llm-as-a-judge/",
+    "title": "Reinforcement fine-tuning with LLM-as-a-judge - AWS",
+    "date": "2026-04-30",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2609.31911",
+    "url": "https://arxiv.org/abs/2609.31911",
+    "title": "Enhancing Visual Reasoning in Chest X-Ray Report Generation Using Reinforcement Learning",
+    "date": "2026-09-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2607.27562",
+    "url": "https://arxiv.org/abs/2607.27562",
+    "title": "DeepResearch Agent System",
+    "date": "2026-07-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2608.01717",
+    "url": "https://huggingface.co/papers/2608.01717",
+    "title": "Beyond On-Policy Exploration: Integrating External Policy Rollouts for Reinforcement Learning in Diffusion Language Models",
+    "date": "2026-08-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2506.13023v1",
+    "url": "https://arxiv.org/html/2506.13023v1",
+    "title": "A Practical Guide for Evaluating LLMs and LLM-Reliant Systems",
+    "date": "2025-06-16",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "https://aclanthology.org/2026.findings-acl.769.pdf",
+    "url": "https://aclanthology.org/2026.findings-acl.769.pdf",
+    "title": "Rethinking RL Evaluation: Can Benchmarks Truly Reveal Failures of RL Methods?",
+    "date": "N/A",
+    "source": "web"
+  }
+]
